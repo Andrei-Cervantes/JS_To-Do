@@ -103,3 +103,9 @@ form button:hover {
 .fa-trash, .fa-check {
     pointer-events: none;
 }
+
+/* Completed Items */
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
